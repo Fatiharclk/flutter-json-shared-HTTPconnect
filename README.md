@@ -1,18 +1,27 @@
 ![0_0vUAU9_O_YCQd-4f](https://user-images.githubusercontent.com/48158126/78242059-0dbed180-74ea-11ea-9e7f-b4c77d5c8127.jpg)
-# Flutter-Starter-Project 
-İçinde birden fazla menü kullandığım, Gifler ve Pathlerden oluşan aktif menüleri olan, fluttera yeni başlayanlar için kaynak 
-olarak kullanıbilecek proje kaynak kodu.
+# Flutter JSON HTTPconnect 
+içinde json işlemleri, shared işlemleri ,api bağlantıları bulunan sayfalar yer alamaktadır.
 # İçindekiler
-## -Stateless Winget
-## -Stateful Winget
-## -Scaffold Winget
-## -Drawer Winget 
-## -Transform Winget 
-## -Container 
-## -AppBar
-## -Gestures
-## -Routes
-## -Decoration 
+- Shared
+- Json Parse
+- Htpp GET - POST
+# Gerekli Kütüphanler
+  cupertino_icons: ^0.1.2
+  shared_preferences: ^0.5.7
+  toast: ^0.1.5
+  fluttertoast: ^4.0.0
+  http: ^0.12.1
+  google_maps_flutter: ^0.5.27
+  (Bunu google map için kullanıyorum projeye dahil değildir.)
+ # Nasıl kurulur ?
+ Proje içinde pubspec.yaml klasörünün içine  
+ "dependencies:
+   flutter:  "
+   klasörünün altına kütüphanelerin son sürümlerini kopyalıyoruz.
+  
+ Projeye indirenler için pubspec.yaml tekrardan ctrl+s yaparlarsa daha kolay kurulum yapar.
+ 
+
 
 
 ## Getting Started
