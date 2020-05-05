@@ -7,11 +7,17 @@ içinde json işlemleri, shared işlemleri ,api bağlantıları bulunan sayfalar
 - Htpp GET - POST
 # Gerekli Kütüphanler
   cupertino_icons: ^0.1.2
+  
   shared_preferences: ^0.5.7
+  
   toast: ^0.1.5
+  
   fluttertoast: ^4.0.0
+  
   http: ^0.12.1
+  
   google_maps_flutter: ^0.5.27
+  
   (Bunu google map için kullanıyorum projeye dahil değildir.)
  # Nasıl kurulur ?
  Proje içinde pubspec.yaml klasörünün içine  
